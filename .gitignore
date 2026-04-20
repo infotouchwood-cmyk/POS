@@ -14,3 +14,9 @@ next.user-config.*
 node_modules
 .next/
 .DS_Store
+# Cloudflare / OpenNext
+.open-next/
+.wrangler/
+.dev.vars
+wrangler-debug.log
+.cache/
